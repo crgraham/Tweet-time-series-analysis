@@ -1,6 +1,6 @@
 <img src = "https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" width ="250" height ="250">
 
-Twitter-data-times-series-eval
+Tweet-time-series-analysis
 In this project we will conduct exploratory probability distribution fitting and a time-series analysis of twitter data to identify any trends.
 # Tweet data analysis
 
