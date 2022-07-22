@@ -1,21 +1,21 @@
 <img src = "https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" width ="250" height ="250">
 
-Tweet-time-series-analysis
-
-In this project we will conduct exploratory probability distribution fitting and a time-series analysis of twitter data to identify any trends.
 # Tweet data analysis
 
-Code repository of tweet data time series evaluation, by Calbert Graham, University of Cambridge, U.K. 
+In this project we will conduct exploratory probability distribution fitting and a time-series analysis of twitter data to identify any trends.
+
+*Code repository by Calbert Graham, University of Cambridge, U.K.* 
 
 
 ## Contents of respository
 
 This repository contains the following files:
-- fitting-probability -distribution-to-data.ipynb: the main file for the probability distribution analysis
+- fitting-probability-distribution-to-data.ipynb: the main file for the probability distribution analysis
 - time-series-analysis.ipynb: the main file for the time series analysis
 - tweet-time-series.txt: the tweet dataset used for both analyses
 - License
 - README.md
+- .gitignore
 
 ## Prerequisites
 
