@@ -7,6 +7,15 @@ In this project we will conduct exploratory probability distribution fitting and
 Code repository of tweet data time series evaluation, by Calbert Graham, University of Cambridge, U.K. 
 
 
+## Contents of respository
+
+This repository contains the following files:
+- fitting-probability -distribution-to-data.ipynb: the main file for the probability distribution analysis
+- time-series-analysis.ipynb: the main file for the time series analysis
+- tweet-time-series.txt: the tweet dataset used for bth analyses
+- License
+- README.md
+
 ## Prerequisites
 
 To use this code, please ensure you have an up-to-date installation of [Python 3](https://www.python.org/downloads), preferably running in a [virtual environment](https://docs.python.org/3/tutorial/venv.html). The code was prepared in [Google Colaboratory](https://colab.research.google.com) and exported to Github. There may be minor compatibility issues. Please submit a pull request if you  find any.
@@ -18,7 +27,7 @@ For the time series analysis, you will need to install the following additonal p
 If you run the code in Google Colab then packages will automatically be installed when there is an import command.
 
 ## Data structure
-Finally, this experiment depends on data made available to the author by Dr Ling Wang from the School of Electronic Engineering and Computer Science, Queen Mry University. You can download the dataset and others from his [website](http://www.eecs.qmul.ac.uk/~linwang/download/ecs764/).
+This experiment depends on data made available to the author by Dr Ling Wang from the School of Electronic Engineering and Computer Science, Queen Mry University. You can download the dataset and others from his [website](http://www.eecs.qmul.ac.uk/~linwang/download/ecs764/).
 
 Here is a sample of the data included in the study:
 
