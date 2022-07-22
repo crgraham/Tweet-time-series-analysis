@@ -20,7 +20,7 @@ This repository contains the following files:
 
 To use this code, please ensure you have an up-to-date installation of [Python 3](https://www.python.org/downloads), preferably running in a [virtual environment](https://docs.python.org/3/tutorial/venv.html). The code was prepared in [Google Colaboratory](https://colab.research.google.com) and exported to Github. There may be minor compatibility issues. Please submit a pull request if you find any.
 
-For fitting probability distribution, you will need to install the following Python packages: [numpy](https://numpy.org/install/), [SciPy](https://www.scipy.org/install.html), [matplotlib](https://matplotlib.org/stable/users/installing/index.html),[pandas](https://pandas.pydata.org/docs/getting_started/install.html),[seaborn](https://seaborn.pydata.org/installing.html). You might do something like `pip3 install numpy scipy matplotlib pandas seaborn` once you've [upgraded pip](https://pip.pypa.io/en/stable/installing/#upgrading-pip).
+For fitting probability distribution, you will need to install the following Python packages: [numpy](https://numpy.org/install/), [SciPy](https://www.scipy.org/install.html), [matplotlib](https://matplotlib.org/stable/users/installing/index.html), [pandas](https://pandas.pydata.org/docs/getting_started/install.html), [seaborn](https://seaborn.pydata.org/installing.html). You might do something like `pip3 install numpy scipy matplotlib pandas seaborn` once you've [upgraded pip](https://pip.pypa.io/en/stable/installing/#upgrading-pip).
 
 For the time series analysis, you will need to install the following additonal package: [statsmodels](https://www.statsmodels.org/stable/install.html)
 
