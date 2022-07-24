@@ -2,7 +2,7 @@
 
 # Tweet data analysis
 
-In this project we will conduct exploratory probability distribution fitting and a time-series analysis of twitter data to identify any trends.
+In this project we will conduct exploratory probability distribution fitting and a time-series analysis of twitter data to identify any trend or pattern over time.
 
 *Code repository by Calbert Graham, University of Cambridge, U.K.* 
 
