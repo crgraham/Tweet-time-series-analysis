@@ -32,7 +32,7 @@ This experiment depends on data made available to the author by Dr Ling Wang fro
 
 Here is a sample of the data included in the study:
 
-| Times (seconds) | Number of tweets | 
+| Time (seconds) | Number of tweets | 
 | -------- | ------ | 
 | 60000 | 33 | 
 | 60001| 37 | 
